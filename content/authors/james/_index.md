@@ -6,6 +6,8 @@ bio: |
 avatar: "/images/dennis-brotzky.jpg"
 featured: false
 social:
+- title: instagram
+  url: https://instagram.com/jfairbairn
 - title: twitter
   url: https://twitter.com/jfairbairn
 
